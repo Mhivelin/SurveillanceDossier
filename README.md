@@ -19,9 +19,9 @@ git clone git@github.com:Mhivelin/SurveillanceDossier.git
 * modifier le script pour y mettre les informations de votre serveur ftp
   * `$dossier` : le dossier à surveiller
   * `$filtre` : le filtre pour les fichiers à surveiller (inchangé = tous les fichiers)
-  * `ftpServer` : le nom du serveur ftp
-  * `ftpUser` : le nom d'utilisateur du serveur ftp
-  * `ftpPassword` : le mot de passe du serveur ftp
+  * `$ftpServer` : le nom du serveur ftp
+  * `$ftpUser` : le nom d'utilisateur du serveur ftp
+  * `$ftpPassword` : le mot de passe du serveur ftp
 
 
 ### Étape 3 : Créer une Tâche Planifiée
